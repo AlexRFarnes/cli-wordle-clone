@@ -1,0 +1,8 @@
+adder
+black
+crane
+learn
+snake
+quake
+upper
+lower
