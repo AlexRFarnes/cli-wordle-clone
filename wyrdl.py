@@ -87,7 +87,6 @@ def main():
     # Pre-process
     word_list = WORDS_PATH.read_text(encoding="utf-8").split("\n")
     word = get_random_word(word_list)
-    print(word)
     guesses = ["_" * NUM_LETTERS] * NUM_GUESSES
 
     # Process (main loop)
